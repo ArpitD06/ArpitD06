@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arpit Dubey</h1>
 <h3 align="center">"Data Science Enthusiast | Machine Learning | Data Analysis | Python & SQL Expertise"</h3>
 
-<img align="rigth" alt="coding" width="400" src>"https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+<img align="rigth" alt="coding" width="400" src>"[https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif](https://dribbble.com/shots/3587000-Coding/attachments/9907911?mode=media)">
 
 
 
