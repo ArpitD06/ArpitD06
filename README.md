@@ -5,7 +5,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [Project Portfolio](Project Portfolio)
+- 👨‍💻 All of my projects are available at [Project Portfolio](https://github.com/ArpitD06/Project-Portfolio)
 
 - 📫 How to reach me **dubeyarpit0608@gmail.com**
 
