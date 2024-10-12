@@ -10,7 +10,7 @@
 - 👨‍💻 All of my projects are available at [Project Portfolio](https://github.com/ArpitD06/Project-Portfolio)
 
 - 📫 How to reach me **dubeyarpit0608@gmail.com**
--  📄 Know about my experiences [my resume](https://github.com/ArpitD06/ArpitD06/blob/main/Arpit%20Resume.pdf)
+-  📄 Know about my experiences [my resume](https://github.com/ArpitD06/ArpitD06/blob/main/Arpit%20Dubey.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
