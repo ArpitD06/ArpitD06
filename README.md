@@ -69,7 +69,7 @@ Currently open to **junior Data Analyst, BI Analyst, and Reporting Analyst** rol
 - ✅ Power BI — Business Intelligence, DAX, Dashboard Design, Data Modeling
 - ✅ Tableau — Data Visualization & Business Development
 - ✅ SQL & Database Management Systems
-- ✅ Master in Data Analytics — Python, SQL, Power BI, Statistics
+- ✅ Data Analytics — Python, SQL, Power BI, Statistics
 
 ---
 
