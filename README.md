@@ -1,29 +1,91 @@
-<h1 align="center">Hi 👋, I'm Arpit Dubey</h1>
-<h3 align="center">"Data Science Enthusiast | Machine Learning & Deep Learning | Data Analysis & Business Analysis | Tableau & Power BI | Python & SQL Expertise"</h3>
+# Hi, I'm Arpit Dubey 👋
 
-<img src="[image](https://github.com/user-attachments/assets/b8e7a850-ad69-40ac-b96c-86814c1c5165)
-" width="400px" />
+### Data & Reporting Analyst | Power BI | SQL | DAX | Pune, India
 
+Data & Reporting Analyst transitioning into IT analytics, with 3 years of experience in data collection, analysis, and reporting at Harman International and Pricol India. I build Power BI dashboards, write SQL queries, and develop Python-based data analysis projects.
 
+Currently open to **junior Data Analyst, BI Analyst, and Reporting Analyst** roles in IT companies.
 
+---
 
-- 👨‍💻 All of my projects are available at [Project Portfolio](https://github.com/ArpitD06/Project-Portfolio)
+## 🛠️ Skills & Tools
 
-- 📫 How to reach me **dubeyarpit0608@gmail.com**
--  📄 Know about my experiences [my resume](https://github.com/ArpitD06/ArpitD06/blob/main/Arpit%20Dubey%20.pdf)
+| Category | Skills |
+|---|---|
+| **BI & Reporting** | Power BI (Desktop & Service), DAX, Power Query, Report Design, RLS, Scheduled Refresh |
+| **Databases** | SQL Server, SQL (Joins, Window Functions, Stored Procedures, Subqueries) |
+| **Data Analysis** | Excel (Advanced), Data Cleaning, KPI Tracking, MIS Reporting, Business Reporting |
+| **Data Modeling** | Star Schema Design, ETL Process & Data Loading, Data Transformation |
+| **Visualization** | Power BI, Tableau, Excel Charts |
+| **Programming** | Python (Pandas, Matplotlib, SQL) |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arpitd06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpitd06" height="30" width="40" /></a>
-<a href="https://kaggle.com/dubeyarpit06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dubeyarpit06" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+## 📂 Featured Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpitd06&show_icons=true&locale=en&layout=compact" alt="arpitd06" /></p>
+### 🔷 Freelance Power BI Project — Local Service Business
+**Tools:** Power BI Desktop, DAX, Power Query, Excel
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpitd06&show_icons=true&locale=en" alt="arpitd06" /></p>
+- Delivered 2–3 interactive Power BI dashboards tracking sales performance, revenue trends, and business KPIs for a local service business client
+- Gathered requirements from the business owner, built a data model using Power Query, and created DAX measures for monthly revenue comparison
+- Replaced manual Excel tracking with an automated Power BI solution
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpitd06&" alt="arpitd06" /></p>
+---
 
+### 🔷 Business Performance Analytics Dashboard
+**Tools:** Power BI Desktop, DAX, Power Query, SQL Server
+
+- Developed a Power BI dashboard to monitor business KPIs including Availability, Performance, and Quality metrics
+- Created a data model using star schema design — linking fact and dimension tables to build a structured reporting layer
+- Built DAX measures for KPI tracking, planned vs. actual comparison, and trend analysis
+- Automated data refresh via Power BI scheduled refresh with Direct Query connection to SQL Server
+
+---
+
+### 🔷 Sales Performance & Forecasting Dashboard
+**Tools:** Power BI Desktop, DAX, Power Query, Excel, SQL
+
+- Designed an interactive sales dashboard analysing revenue, profit margins, discount patterns, and regional trends
+- Built time intelligence DAX measures — YTD, MTD, QTD, period-over-period — and a 15-day forecast model
+- Implemented Row-Level Security (RLS) to restrict data visibility by region and sales team
+
+---
+
+### 🔶 E-Commerce Data Analysis
+**Tools:** Python, SQL, Pandas, Matplotlib
+
+- Performed end-to-end exploratory data analysis on an e-commerce dataset — data cleaning, trend analysis, and customer segmentation
+- Used Python (Pandas, Matplotlib) to visualise purchase patterns and identify high-value customer segments
+- 📁 [View Project](./Project-Portfolio)
+
+---
+
+## 🎓 Education & Certifications
+
+- 🎓 BCA — Manipal University Jaipur *(Pursuing, Expected 2028)*
+- 🎓 Diploma in Electronics Engineering — Govt. Polytechnic Rampur | 77%
+
+**Certifications — TopMentor:**
+- ✅ Power BI — Business Intelligence, DAX, Dashboard Design, Data Modeling
+- ✅ Tableau — Data Visualization & Business Development
+- ✅ SQL & Database Management Systems
+- ✅ Master in Data Analytics — Python, SQL, Power BI, Statistics
+
+---
+
+## 💼 Work Experience
+
+**Associate Analyst** — Pricol India, Pune *(Sep 2024 – Feb 2026)*
+> Data collection, validation & MIS reporting, business report analysis, Power BI dashboard support
+
+**Reporting Analyst** — Harman International, Pune *(Sep 2022 – Aug 2024)*
+> Excel MIS reporting, business data analysis, Power BI dashboard exposure, management reporting
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arpit%20Dubey-blue?style=flat&logo=linkedin)](https://linkedin.com/in/arpitd06)
+[![Email](https://img.shields.io/badge/Email-dubeyarpit0608%40gmail.com-red?style=flat&logo=gmail)](mailto:dubeyarpit0608@gmail.com)
+
+📍 Pune, India | Open to hybrid & remote roles
