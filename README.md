@@ -4,7 +4,7 @@
 
 Data & Reporting Analyst transitioning into IT analytics, with 3 years of experience in data collection, analysis, and reporting at Harman International and Pricol India. I build Power BI dashboards, write SQL queries, and develop Python-based data analysis projects.
 
-Currently open to **junior Data Analyst, BI Analyst, and Reporting Analyst** roles.
+Currently open to **Data Analyst, Business Analyst, and Reporting Analyst** roles.
 
 ---
 
@@ -17,7 +17,7 @@ Currently open to **junior Data Analyst, BI Analyst, and Reporting Analyst** rol
 | **Data Analysis** | Excel (Advanced), Data Cleaning, KPI Tracking, MIS Reporting, Business Reporting |
 | **Data Modeling** | Star Schema Design, ETL Process & Data Loading, Data Transformation |
 | **Visualization** | Power BI, Tableau, Excel Charts |
-| **Programming** | Python (Pandas, Matplotlib, SQL) |
+| **Programming** | Python (Numpy, Pandas, Matplotlib, SQL) |
 
 ---
 
