@@ -56,7 +56,7 @@ Currently open to **junior Data Analyst, BI Analyst, and Reporting Analyst** rol
 
 - Performed end-to-end exploratory data analysis on an e-commerce dataset — data cleaning, trend analysis, and customer segmentation
 - Used Python (Pandas, Matplotlib) to visualise purchase patterns and identify high-value customer segments
-- 📁 [View Project](./Project-Portfolio)
+- 📁 [View Project](https://github.com/ArpitD06/Project-Portfolio/blob/main/Analysis%20of%20E-Commerce%20Data.ipynb)
 
 ---
 
