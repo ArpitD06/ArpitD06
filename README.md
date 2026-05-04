@@ -2,7 +2,7 @@
 
 ### Data & Reporting Analyst | Power BI | SQL | DAX | Pune, India
 
-Data & Reporting Analyst transitioning into IT analytics, with 3 years of experience in data collection, analysis, and reporting at Harman International and Pricol India. I build Power BI dashboards, write SQL queries, and develop Python-based data analysis projects.
+Data & Reporting Analyst, with 3 years of experience in data collection, analysis, and reporting at Harman International and Pricol India. I build Power BI dashboards, write SQL queries, and develop Python-based data analysis projects.
 
 Currently open to **Data Analyst, Business Analyst, and Reporting Analyst** roles.
 
